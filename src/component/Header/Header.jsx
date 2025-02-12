@@ -40,7 +40,7 @@ export default function Header() {
                     </li>
                 </ul>
                 <ul class="navbar-nav brand">
-                    <img src="assets/imgs/avatar.jpg" alt="" class="brand-img" />
+                    <img src="/assets/imgs/avatar.jpg" alt="" class="brand-img" />
                     <li class="brand-txt">
                         <h5 class="brand-title">Luis Miguel Gomez Zuluaga</h5>
                         <div class="brand-subtitle">Project Engineer ⚡️| Data Analyst 💻 | Power systems</div>
